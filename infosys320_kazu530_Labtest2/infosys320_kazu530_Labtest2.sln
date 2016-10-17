@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "infosys320_kazu530_Labtest2.CSharp.Plugins", "infosys320_kazu530_Labtest2.CSharp.Plugins.csproj", "{1B20653C-9047-7211-03BF-627C2C130F70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "infosys320_kazu530_Labtest2.CSharp", "infosys320_kazu530_Labtest2.CSharp.csproj", "{9E4B0C34-565F-EDCF-EEF2-9393E00635AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "infosys320_kazu530_Labtest2.CSharp.Editor", "infosys320_kazu530_Labtest2.CSharp.Editor.csproj", "{2C8B2184-FE5A-9968-D68F-98A37625949C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B20653C-9047-7211-03BF-627C2C130F70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B20653C-9047-7211-03BF-627C2C130F70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B20653C-9047-7211-03BF-627C2C130F70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B20653C-9047-7211-03BF-627C2C130F70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E4B0C34-565F-EDCF-EEF2-9393E00635AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E4B0C34-565F-EDCF-EEF2-9393E00635AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E4B0C34-565F-EDCF-EEF2-9393E00635AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E4B0C34-565F-EDCF-EEF2-9393E00635AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C8B2184-FE5A-9968-D68F-98A37625949C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C8B2184-FE5A-9968-D68F-98A37625949C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C8B2184-FE5A-9968-D68F-98A37625949C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C8B2184-FE5A-9968-D68F-98A37625949C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
